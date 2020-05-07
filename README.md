@@ -22,4 +22,4 @@ A Rust implementation of the Glowworm Swarm Optimization algorithm
 
 #### Step 100
 
-![Rust:Step 1](benchmark/rastrigin/rastrigin_rust_1.png)
+![Rust:Step 1](benchmark/rastrigin/rastrigin_rust_2.png)
